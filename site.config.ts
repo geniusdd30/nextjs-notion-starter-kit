@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'genius_dd's blog',
+  name: 'blog',
   domain: 'https://apple-gauge-bb4.notion.site/9898ab6f26034d818c5b9d8c519f3e67?v=24ce9ed7fff74f98ae87421c0b39a34d&pvs=4',
   author: 'genius_dd',
 
